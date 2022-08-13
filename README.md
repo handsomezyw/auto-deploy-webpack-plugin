@@ -7,7 +7,7 @@ Upload your packaged folder to the specified path on the server
 Install with npm
 
 ```shell
-npm install @zyw/auto-deploy-webpack-plugin
+npm install @handsomezyw/auto-deploy-webpack-plugin
 ```
 
 # Usage
