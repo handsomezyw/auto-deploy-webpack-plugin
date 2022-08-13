@@ -1,6 +1,6 @@
 {
   "name": "@handsomezyw/auto-deploy-webpack-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "repository": {
     "type": "git",
@@ -11,7 +11,11 @@
     "test": "mocha",
     "build": "webpack"
   },
-  "keywords": ["auto","deploy","webpack"],
+  "keywords": [
+    "auto",
+    "deploy",
+    "webpack"
+  ],
   "author": "zyw",
   "license": "ISC",
   "devDependencies": {
