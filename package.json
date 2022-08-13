@@ -1,12 +1,12 @@
 {
   "name": "@handsomezyw/auto-deploy-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/handsomezyw/auto-deploy-webpack-plugin"
   },
-  "main": "./dist/autoDeploy-webpack-plugin.js",
+  "main": "dist/autoDeploy-webpack-plugin.js",
   "scripts": {
     "test": "mocha",
     "build": "webpack"
