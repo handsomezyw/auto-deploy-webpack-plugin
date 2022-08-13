@@ -7,6 +7,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: "autoDeploy-webpack-plugin.js",
+    globalObject: 'this',
     library: {
       name: "autoDeployWebpackPlugin",
       type: "umd"
