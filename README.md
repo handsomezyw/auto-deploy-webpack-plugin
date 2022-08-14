@@ -13,7 +13,7 @@ npm install @handsomezyw/auto-deploy-webpack-plugin
 # Usage
 
 ```js
-const AutoDeployWebpackPlugin = require("@zyw/auto-deploy-webpack-plugin");
+const AutoDeployWebpackPlugin = require("@handsomezyw/auto-deploy-webpack-plugin");
 
 const options = {
   serverOptions: {
