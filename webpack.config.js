@@ -27,9 +27,5 @@ module.exports = {
         }
       }
     ]
-  },
-  externals: {
-    "schema-utils": "commonjs schema-utils",
-    "ssh2-sftp-client": "commonjs ssh2-sftp-client"
   }
 };
