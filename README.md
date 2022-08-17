@@ -1,6 +1,6 @@
 # auto-deploy-webpack-plugin
 
-Upload your packaged folder to the specified path on the server
+Upload your packaged folder to the specified path on the server（The file in the specified path will be cleared first）
 
 # Installation
 
